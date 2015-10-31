@@ -1,0 +1,4 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+one_class	/Users/philip/code/foo/danweaver/lib/tasks/sampledata.rake	/^  def one_class$/;"	f	language:Ruby
+one_teacher	/Users/philip/code/foo/danweaver/lib/tasks/sampledata.rake	/^  def one_teacher$/;"	f	language:Ruby
+two_students	/Users/philip/code/foo/danweaver/lib/tasks/sampledata.rake	/^  def two_students$/;"	f	language:Ruby
